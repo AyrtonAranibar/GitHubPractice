@@ -6,6 +6,12 @@
 h1{
     font-size: 42px;
 }
+header{
+    background-color: rgb(46, 46, 46);
+    color: white;
+    margin: 2em 4em;
+    padding:1em;
+}
 .contenedor1{
     margin: 2em 4em;
     padding:1em;
